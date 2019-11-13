@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="importset table sample" max_length="40" name="x_58872_needit_importset_table_sample" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=name" label="name" max_length="40" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=User id" label="User id" max_length="40" name="u_user_id" type="string"/>
+    </element>
+</database>
